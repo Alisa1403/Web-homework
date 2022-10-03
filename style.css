@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://vtemu.by/wp-content/uploads/2016/01/0-16.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.content{
+    background: #fce8b4ee;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); 
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 5%;
+    padding: 10%;
+
+}
+.photo{
+    text-align: center;
+}
